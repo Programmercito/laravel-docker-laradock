@@ -1,0 +1,1 @@
+<? echo 'hola como estas estoy es php'; ?>
